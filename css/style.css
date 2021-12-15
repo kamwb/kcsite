@@ -533,3 +533,70 @@ color: rgba(0,0,0,.55);
 padding-left: 0.5rem;
     padding-right: 0.5rem;
 }
+@media (min-width: 192px){
+	.navbar-expand-lg .navbar-nav {
+		flex-direction: row;
+	}
+}
+@media (min-width: 192px){
+	.navbar-expand-lg .navbar-nav .dropdown-menu {
+		position: absolute;
+	}
+}
+
+/* to deal with side menu */
+.list_right {
+	display: none;
+}
+.pagesuj {
+	width: 974px;
+}
+.container {
+	width: 984px;
+	padding-right: 0px;
+}
+@media (min-width: 176px)
+{
+	.container, .container-sm {
+		max-width: 100%;
+	}
+}
+.thm-titlecustomstyle {
+	margin-right: 14px;
+}
+.dropdown-toggle::after {
+  font-family: 'FontAwesome';
+  content: '\f105';
+  border: 0px;
+  vertical-align: -0.2em;
+  transform: rotate(90deg);
+}
+.dropend .dropdown-toggle::after {
+	vertical-align: -0.1em;
+	font-family: 'FontAwesome';
+	content: '\f105';
+	border: 0px;
+	transform: rotate(180deg);
+}
+#BreadcrumbTB{
+  display: none;
+}
+.page_title{
+  background-image: url('https://www.uj.edu.sa/Files/856/Galleries/7273/55966_bg.png')
+}
+span#lblsite_name {
+  line-height: 37px;
+  font-size: smaller;
+}
+.container-fluid{
+padding-right: 0;
+}
+.nav-item {
+font-size: large;
+padding-left: 0;
+}
+@media screen and (max-width: 1000px) {
+.nav-item {
+padding-left: 0.7em;
+}
+}
