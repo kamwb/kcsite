@@ -1,0 +1,229 @@
+.orgchart {
+    display: inline-block;
+    font-family: "sans-serif", Cairo;
+}
+
+.orgchart, .orgchart ul {
+    padding: 0;
+    margin: 0;
+    align-self: center;
+}
+
+.orgchart ul {
+    display: flex;
+}
+
+.orgchart li {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.orgchart .nodecontent {
+    text-align: center;
+    align-self: center;
+    position: relative;
+    margin: 20px 5px;
+    font-family: "sans-serif", Cairo;
+    word-wrap: break-word;
+    max-width: 118px;
+    min-height: 43px;
+    min-width: 120px;
+    font-size: medium;
+    border: 1px solid;
+    padding: 11px 0;
+}
+
+.vnodecontent {
+    text-align: center;
+    align-self: center;
+    position: relative;
+    font-family: "sans-serif", Cairo;
+    word-wrap: break-word;
+    max-width: 118px;
+    min-height: 43px;
+    min-width: 120px;
+    font-size: medium;
+    border: 1px solid;
+    padding: 11px 0;
+    margin: 0px 243px 12px 0px;
+}
+
+.orgchart .vnode:last-child::before {
+    border-width: 0px 2px 0px 0px;
+    right: 339px;
+    height: 61px;
+    width: 11px;
+    border-radius: 0;
+}
+ .orgchart .vnodecontent::before {
+    box-sizing: border-box;
+    content: '';
+    position: absolute;
+    border: 0px solid #CCCCCC;
+    height: 2px;
+    width: 61px;
+    top: calc(50% - 1px);
+    right: -61px;
+    border-width: 2px 0 0 0;
+}
+
+.orgchart .collapsed > ul {
+    display: none;
+}
+
+.orgchart li::before,
+.orgchart .nodecontent::after,
+.orgchart .nodecontent::before {
+    box-sizing: border-box;
+    content: '';
+    position: absolute;
+    border: 0px solid #CCCCCC;
+}
+
+.orgchart li:not(:only-child)::before {
+    border-top-width: 2px;
+    width: 100%;
+    height: 20px;
+    top: 0px;
+}
+
+.orgchart li:first-child::before {
+    width: calc(50% + 1px);
+    right: 0;
+    border-left-width: 2px;
+    border-top-left-radius: 7px;
+}
+
+.orgchart li:last-child::before {
+    width: calc(50% + 1px);
+    border-right-width: 2px;
+    border-top-right-radius: 7px;
+}
+
+.orgchart .nodecontent::after,
+.orgchart .nodecontent::before {
+    border-left-width: 2px;
+    width: 2px;
+    height: 20px;
+    right: calc(50% - 1px);
+}
+
+.orgchart .nodecontent::before {
+    top: -21px;
+}
+.orgchart .nodecontent::after {
+    bottom: -21px;
+}
+
+.orgchart li:first-child:not(:only-child) > .nodecontent::before,
+.orgchart li:last-child:not(:only-child) > .nodecontent::before {
+    border-left-width: 0px;
+}
+
+.orgchart .leaf > .nodecontent::after,
+.orgchart .root > .nodecontent::before,
+.orgchart .collapsed > .nodecontent::after {
+    display: none;
+}
+
+.orgchart li.vertical > ul {
+    flex-direction: column;
+    align-items: flex-end;
+    margin: 0 5px;
+    position: relative;
+}
+
+.orgchart li.vertical > ul > li > .nodecontent {
+    margin: 10px 0 0 10px;
+}
+
+.orgchart li.vertical > ul::before {
+    box-sizing: border-box;
+    content: '';
+    position: absolute;
+    top: -2px;
+    right: 0px;
+    height: 22px;
+    width: calc(50% - 7px);
+    border-top: 2px solid #CCCCCC;
+}
+
+.orgchart li.vertical > .nodecontent::after {
+    border-width: 0px 0px 2px 2px;
+    border-bottom-left-radius: 7px;
+    width: 10px;
+    left: auto;
+    right: calc(50% - 9px);
+}
+
+.orgchart li.vertical > ul > li::before {
+    border-width: 0px 2px 0px 0px;
+    right: -10px;
+    height: 100%;
+    width: 11px;
+    border-radius: 0;
+}
+.orgchart li.vertical > ul > li:first-child::before {
+    top: -2px;
+    height: calc(100% + 2px);
+    border-top-width: 2px;
+    border-top-right-radius: 7px;
+}
+
+.orgchart li.vertical > ul > li:last-child::before {
+    height: calc(50% + 6px);
+    border-bottom-width: 2px;
+    border-bottom-right-radius: 7px;
+}
+
+.orgchart li.vertical > ul > li > .nodecontent::before {
+    height: 2px;
+    width: 9px;
+    top: calc(50% - 1px);
+    right: -10px;
+    border-width: 2px 0 0 0;
+}
+
+.orgchart li.vertical > ul > li:last-child > .nodecontent::before {
+    display: none;
+}
+
+.btn{
+    border: 1px solid red;
+    border-radius: 24px;
+    line-height: 26px;
+    padding: 2px 2px 2px 2px;
+}
+
+.orgchart .nodecontent:last-child:after {
+    border-left-width: 0px;
+}
+
+.orgchart .nodecontent::before {
+    top: -21px;
+}
+
+.head{
+    margin: 0 !important;
+    background-color: #334257;
+    color: white;
+}
+
+.head::before{
+    border-left-width: 0px !important;
+}
+
+.head1 {
+    background-color: #476072;
+    color: white;
+}
+
+.head2 {
+    background-color: #548CA8;
+    color: white;
+}
+
+.head3 {
+    background-color: #EEEEEE;
+}
