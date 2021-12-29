@@ -25,7 +25,7 @@ const chemistry = [
       {
         title: "Wessam Nadar, ",
         subtitle: "“Novel synthesis, structure characterization, DFT and investigation of the optical properties of cyanine dye/zinc oxide [4-CHMQI/ZnO] C nanocomposite thin film.”, ",
-        italic: Journal of Molecular Structure. ",
+        italic: "Journal of Molecular Structure. ",
         pp: " (2020).",
         url: "#",
       },
@@ -59,8 +59,7 @@ const chemistry = [
       },
       {
         title: "Jaafer M. Alkabli & Wessam Nadar,",
-        subtitle: "” Azomethine-functionalized task-specific ionic liquid for diversion of toxic metal ions in the aqueous
-environment into pharmacological nominates”",
+        subtitle: "” Azomethine-functionalized task-specific ionic liquid for diversion of toxic metal ions in the aqueous environment into pharmacological nominates”",
         italic: " Journal of Molecular Liquids-, ",
         pp: " (2020). ",
         url: "#",
@@ -277,7 +276,7 @@ environment into pharmacological nominates”",
         },
         {
           title: "Wessam Nadar, ",
-          subtitle: "corrosion inhibition and biological effect of some laboratory synthesis cationic surfactants in oil fields”,
+          subtitle: "corrosion inhibition and biological effect of some laboratory synthesis cationic surfactants in oil fields”",
           italic: "Corrosion and Dye, ",
           pp: " (2014).",
           url: "#",
