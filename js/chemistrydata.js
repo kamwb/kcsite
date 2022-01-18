@@ -167,10 +167,10 @@ const chemistry = [
       year: "2018",
       list: [
         {
-          title: "Ameen Bin Ali and Wessam Nadar, ",
+          title: "Med Amine Rachid Ben Ali, and Wessam N. El-Sayed, ",
           subtitle: "“Feed and Bleed Bipolar Membrane Electrodialysis Process,” ",
           italic: "Middle East Journal of Applied Sciences. ",
-          pp: " (2018)",
+          pp: " 7(1), 75-85, (2018)",
           url: "#",
         },
         {
@@ -181,8 +181,8 @@ const chemistry = [
           url: "#",
         },
         
-        ]
-      },
+	      ]
+    },
       {
       year: "2017",
       list: [
@@ -217,21 +217,21 @@ const chemistry = [
           title: "Ameen Bin Ali and Wessam Nadar, ",
           subtitle: "“Synthesis, characterization and DNA-Binding properties of the novel mononuclear Zn(II), Cd(II), and Mn(II) complexes with Pantoprazole”. ",
           italic: "Mediterranean Journal of Chemistry. ",
-          pp: "(2016) ",
+          pp: "5(2), 406-413, (2016).",
           url: "#",
         },
         {
-          title: "Wessam Nadar, ",
+          title: "Y. M. ISSA, W. H. HEgAzY W. N. EL-SAYED, and H. I. ahmed, ",
           subtitle: "“Pantoprazole Sodium Sesquihydrate Complexes: Synthesis, Characterization, Potentiometric Determination and DNA interaction”. ",
           italic: "Oriental Journal of Chemistry. ",
-          pp: " (2016).",
+          pp: " 32(2), 2016, 1085-1097.",
           url: "#",
         },
         {
-          title: "Wessam Nadar, ",
+          title: "Mostafa El-Sayed Ahmed, Mamdouh M.Doheim, Nabila A. Ali and Wessam N. El-Sayed, ",
           subtitle: "“Inhibitive Efficiency of Some Cellulosic materials as Corrosion Inhibitors for Mild Steel in petroleum Industry”.",
-          italic: " Journal of Scientific Research in Science ",
-          pp: " (2016)",
+          italic: " Journal of Scientific Research in Science, ",
+          pp: " 33(1), 449-462 (2016)",
           url: "#",
         },
         {
@@ -268,10 +268,10 @@ const chemistry = [
           url: "#",
         },
         {
-          title: "Ameen Bin Ali, ",
+          title: "Mohamed Amine Ben Ali and Houssem Eddine Hajri, ",
           subtitle: "“Ions transfer modeling through monopolar and bipolar membranes: Treatment of wastewater containing ammonium nitrate by Electrodialysis”. ",
           italic: "Mediterranean Journal of Chemistry. ",
-          pp: " (2015)",
+          pp: "4(3), 111-121. Military Academy, Intelligent Material Research Unit, Foudouk Jedid.Tnisia, (2015)",
           url: "#",
         },
         {
@@ -362,6 +362,20 @@ const chemistry = [
           subtitle: "Preparation of some cationic surfactants and evaluation of their effect as corrosion inhibitors for tubing steel and antimicrobial agents for sulfate reducing bacteria ",
           italic: "Middle East Journal of Applied Sciences, ",
           pp: " (2014)",
+          url: "#",
+        },
+	{
+          title: "Hajri.A.H; Ben Ali. M.A, ",
+          subtitle: "Kaddachi.M  « Procédé chimique de recyclage des huiles de moteur usées » ",
+          italic: "Académie Militaire Foundok-Jedid, Société chimique Tunisie, Décembre 2014, ",
+          pp: "#",
+          url: "#",
+        },
+	{
+          title: "Hajri.A.H; Ben Ali. M.A, ",
+          subtitle: "Preparations and Applications of Piezoelectric/Electrochemical Sensors and Fullerene C60 derivatives. ",
+          italic: "Académie militaire Foundok-Jedid, Société chimique Tunisie, Décembre 2014, ",
+          pp: "#",
           url: "#",
         },
         {
@@ -460,7 +474,14 @@ const chemistry = [
           pp: "(2012)",
           url: "#",
         },
-		{
+	{
+          title: "Mohamed Amine Ben Ali, Achref Anaya, Marwa Belghar Ali, Abdel kader Snen,",
+          subtitle: "Modélisation d’une Colonne de Distillation Atmosphérique par le Simulateur HYSYS.",
+          italic: "Société Chimique de Tunisie, cp 45, December 2012 ",
+          pp: "#",
+          url: "#",
+        },
+	{
           title: "Ashraf A. Sediek",
           subtitle: "Design of new arylamino-2-ethane-1,1-diyl- and benzoxazole-2-methylenebisphosphonates vs cytotoxicity and chronic inflammation diseases. From hydrophobicity prediction to synthesis and biological evaluation",
           italic: "European Journal of Medicinal Chemistry ",
