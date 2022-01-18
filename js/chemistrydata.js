@@ -92,10 +92,17 @@ const chemistry = [
         url: "#",
       },
       {
-        title: "Wessam Nadar, ",
-        subtitle: "“Novel synthesis, structure characterization, DFT and investigation of the optical properties of cyanine dye/zinc oxide [4-CHMQI/ZnO] C nanocomposite thin film.”, ",
-        italic: "Journal of Molecular Structure. ",
+        title: "W.N. El-Sayed, J. Alkabli, Khalid Althumayri, Reda F.M. Elshaarawy, Lamia A. Ismail, ",
+        subtitle: "“Azomethine-functionalized task-specific ionic liquid for diversion of toxic metal ions in the aqueous environment into pharmacological nominates.”, ",
+        italic: "Ismail, Journal of Molecular Liquids-114525; No of Pages 10.",
         pp: " (2020).",
+        url: "#",
+      },
+      {
+        title: "J. Alkabli, W.N. El-Sayed, Reda F.M. Elshaarawy, Amgad I.M. Khedr, ",
+        subtitle: "“Upgrading Oryza sativa wastes into multifunctional antimicrobial and antibiofilm nominees; Ionic Metallo-Schiff base-supported cellulosic nanofibers.”, ",
+        italic: "European Polymer Journal 138 (2020) 109960.",
+        pp: "#",
         url: "#",
       },
       {
@@ -110,13 +117,6 @@ const chemistry = [
         subtitle: "” Optimization of the esterification process of crude jatropha oil (CJO) containing high levels of free fatty acids: a Malaysian case study”, ",
         italic: "Biofuels. ",
         pp: "(2020).",
-        url: "#",
-      },
-      {
-        title: "Jaafer M. Alkabli & Wessam Nadar, ",
-        subtitle: "“Upgrading Oryza sativa wastes into multifunctional antimicrobial and antibiofilm nominees; Ionic Metallo-Schiff base-supported cellulosic nanofibers” ",
-        italic: "European Polymer Journal ",
-        pp: " (2020).",
         url: "#",
       },
       {
@@ -140,10 +140,10 @@ const chemistry = [
       year: "2019",
       list: [
         {
-          title: "Wessam Nadar,",
+          title: "Wessam N. El-Sayed, Khalid Z. Elwakeel, Ahmed Shahat and Md. Rabiul Awual,",
           subtitle: "” Investigation of novel nanomaterial for the removal of toxic substances from contaminated water”, ",
           italic: "RSC Adv ",
-          pp: " (2019).",
+          pp: "Issue 25, 2019,9, 14167-14175, (2019).",
           url: "#",
         },
         {
