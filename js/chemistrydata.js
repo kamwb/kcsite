@@ -85,7 +85,7 @@ const chemistry = [
     year: "2020",
     list: [
       {
-        title: "Wessam Nadar, ",
+        title: "Hassan M.A. Hassan, Ahmed Shahat, Hassan M.E. Azzazy, Reda M. Abd El-aal, Wessam N. El-Sayed, Aiman Abd Elwahed, Md. Rabiul Awualf, ",
         subtitle: "“A novel and potential chemical sensor for effective monitoring of Fe(II) ion in corrosion systems of water samples. “",
         italic: " Microchemical Journal, ",
         pp: " (2020)",
