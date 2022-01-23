@@ -40,7 +40,8 @@ var app = new Vue({
                 "place": "مبادرة تطوعية عن بعد",
                 "vol_count": "9",
                 "pics": [
-                    '#',
+                    'https://www.uj.edu.sa/Files/856/Galleries/7280/55998_electronic%20bag.jpg',
+		    'https://www.uj.edu.sa/Files/856/Galleries/7280/55999_electronic%20bag2.png',
                 ]
             },
             {
@@ -58,7 +59,8 @@ var app = new Vue({
                 "place": "أونلاين  _ من خلال حساب على منصة تويتر خاص بالمبادرة @EZenglEZ ",
                 "vol_count": "60",
                 "pics": [
-                    '#',
+                    'https://www.uj.edu.sa/Files/856/Galleries/7280/56000_easyenglish.jpg',
+		    'https://www.uj.edu.sa/Files/856/Galleries/7280/56001_easyenglish2.png',
                 ]
             },
             {
@@ -77,7 +79,8 @@ var app = new Vue({
                 "place": "عبر منصة البلاك بورد",
                 "vol_count": "2",
                 "pics": [
-                    '#',
+                    'https://www.uj.edu.sa/Files/856/Galleries/7280/56008_save%20grace.jpg',
+		    'https://www.uj.edu.sa/Files/856/Galleries/7280/56009_save%20grace2.jpg',
                 ]
             },
             {
@@ -96,11 +99,13 @@ var app = new Vue({
                 "place": "مساجد ومراكز مختلفة بجدة ومحافظة الكامل",
                 "vol_count": "11",
                 "pics": [
-                    '#',
+                    'https://www.uj.edu.sa/Files/856/Galleries/7280/56002_quran.JPG',
+		    'https://www.uj.edu.sa/Files/856/Galleries/7280/56003_quran2.JPG',
+		    'https://www.uj.edu.sa/Files/856/Galleries/7280/56004_report.jpg',
                 ]
             },
             {
-                "title": "السلامة من عدوى فيروس كورونا",
+                "title": "السلامة الصحية في ظل جائحة كورونا",
                 "type": "محاضرة",
                 "owner": "د.هدى السيد , د.زينب هاشم",
                 "email": "hemohammed@uj.edu.sa",
@@ -115,7 +120,7 @@ var app = new Vue({
                 "place": "عبر منصة البلاك بورد",
                 "vol_count": "7",
                 "pics": [
-                    '#',
+                    'https://www.uj.edu.sa/Files/856/Galleries/7280/56006_safety%20in%20corona.jpg',
                 ]
             },
             {
@@ -131,7 +136,7 @@ var app = new Vue({
                 "vol_count": "",
                 "hours": "",
                 "pics": [
-                    '#',
+                    'https://www.uj.edu.sa/Files/856/Galleries/7280/56011_traffic%20safety.jpg',
                 ]
             },
             {
@@ -150,7 +155,7 @@ var app = new Vue({
                 "place": "عبر منصة البلاك بورد",
                 "vol_count": "7",
                 "pics": [
-                    '#',
+                    'https://www.uj.edu.sa/Files/856/Galleries/7280/56010_traffic%20safety%20for%20motorists.jpg',
                 ]
             },
             {
@@ -169,7 +174,7 @@ var app = new Vue({
                 "place": "عبر منصة البلاك بورد",
                 "vol_count": "6",
                 "pics": [
-                    '#',
+                    'https://www.uj.edu.sa/Files/856/Galleries/7280/56007_safety%20in%20the%20use%20of%20medicines.jpg',
                 ]
             },
             {
@@ -186,7 +191,7 @@ var app = new Vue({
                 "place": "عبر منصة البلاك بورد",
                 "vol_count": "4",
                 "pics": [
-                    '#',
+                    'https://www.uj.edu.sa/Files/856/Galleries/7280/56012_%D8%B4%D8%B1%D9%8A%D8%AD%D8%A91.JPG',
                 ]
             },
             {
@@ -202,7 +207,7 @@ var app = new Vue({
                 "place": "عبر منصة البلاك بورد",
                 "vol_count": "2",
                 "pics": [
-                    '#',
+                    'https://www.uj.edu.sa/Files/856/Galleries/7280/56005_home%20safety.jpg',
                 ]
             }
         ],
