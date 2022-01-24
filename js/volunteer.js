@@ -204,6 +204,7 @@ var app = new Vue({
                 "vol_count": "4",
                 "pics": [
                     'https://www.uj.edu.sa/Files/856/Galleries/7280/56012_%D8%B4%D8%B1%D9%8A%D8%AD%D8%A91.JPG',
+		    'https://www.uj.edu.sa/Files/856/Galleries/7280/56017_labsafety.png',
                 ]
             },
             {
