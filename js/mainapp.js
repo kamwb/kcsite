@@ -159,7 +159,7 @@ var app = new Vue({
       platforms: [
         {
           title: "الإدارة الرقمية المتكاملة IDM",
-          url: "https://csa-kmath.uj.edu.sa/Pages-IDM.aspx"
+          url: "https://csa.uj.edu.sa/Pages-IDM.aspx"
         },
         {
           title: "المنصة الرقمية الاستشارية لدعم مربي الماشية",
