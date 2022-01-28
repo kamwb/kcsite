@@ -48,7 +48,46 @@ var app = new Vue({
                         "place": "عدة مدارس ثانوية بجدة والكامل",
                         "vol_count": "10",
                         "pics": [
-                            '#',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7282/56023_alzheimer.JPG',
+                        ]
+                    },
+                       {
+                        "title": "مبادرة سقيا الماء",
+                        "owner": "",
+                        "email": " ",
+                        "date": "5-4-1443 ",
+                        "committee": "وحدة خدمة المجتمع والعمل التطوعي",
+                        "description": "مبادرة مجتمعية لتوزيع المياه الصالحة للشرب في مواقع مختلفة بمحافظة الكامل ",
+                        "outcome": [
+                        "المشاركة المجتمعية الفاعلة بين أفراد المجتمع لتوفير احتياجاته",
+                        "توزيع المياه الصالحة للشرب في مواقع مختلفة بمحافظة الكامل حسب الحاجة لها",
+                        "توفير برادات مياه مستديمة في المواقع العامة مثل المساجد ومواقف السيارات وغيرها",
+                        ],
+                        "place": "عدة مواقع بمحافظة الكامل",
+                        "vol_count": "10",
+                        "pics": [
+                            'https://www.uj.edu.sa/Files/856/Galleries/7282/56033_water.JPG',
+                        ]
+                    },
+                    {
+                        "title": "مبادرة الطريق إلى محبة الله",
+                        "owner": "د.خاتمة حمود ",
+                        "email": "",
+                        "date": "13-4-1443:19-4-1443 ",
+                        "committee": "وحدة خدمة المجتمع والعمل التطوعي",
+                        "description": "مبادرة توعوية تم عملها في عدة مدارس ثانوية في مدينة جدة ومحافظة الكامل ",
+                        "outcome": [
+                        "نشر الوعي بمرض الزهايمر",
+                        "ارشادات التعامل مع مريض الزهايمر",
+                        "الوعي بالأغذية المفيدة للوقاية من الزهايمر",
+                        ],
+                        "place": "عبر منصة البلاك بورد",
+                        "vol_count": "3 ",
+                        "pics": [
+                            'https://www.uj.edu.sa/Files/856/Galleries/7282/56028_thewaytoallah.JPG',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7282/56027_optimistic.JPG',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7282/56029_thewaytoallah2.JPG',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7282/56030_thewaytoallah3.JPG',
                         ]
                     },
                     {
@@ -65,25 +104,7 @@ var app = new Vue({
                         "place": "عبر منصة البلاك بورد",
                         "vol_count": "23",
                         "pics": [
-                            '#',
-                        ]
-                    },
-                    {
-                        "title": "مبادرة الطريق إلى محبة الله",
-                        "owner": "د.خاتمة حمود ",
-                        "email": "",
-                        "date": "20-2-1443 ",
-                        "committee": "وحدة خدمة المجتمع والعمل التطوعي",
-                        "description": "مبادرة توعوية تم عملها في عدة مدارس ثانوية في مدينة جدة ومحافظة الكامل ",
-                        "outcome": [
-                        "نشر الوعي بمرض الزهايمر",
-                        "ارشادات التعامل مع مريض الزهايمر",
-                        "الوعي بالأغذية المفيدة للوقاية من الزهايمر",
-                        ],
-                        "place": "عبر منصة البلاك بورد",
-                        "vol_count": "3 ",
-                        "pics": [
-                            '#',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7282/56024_doctors.JPG',
                         ]
                     },
                     {
@@ -100,25 +121,64 @@ var app = new Vue({
                         "place": "كلية العلوم والآداب بالكامل",
                         "vol_count": "13",
                         "pics": [
-                            '#',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7282/56022_breakfast2.JPG',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7282/56021_breakfast.jpg',
                         ]
                     },
-                    {
-                        "title": "مبادرة سقيا الماء",
-                        "owner": "",
-                        "email": " ",
-                        "date": "20-2-1443 ",
+                     {
+                        "title": "مبادرة مهارتك تصنع مستقبلك",
+                        "owner": "د.نورا العبادي",
+                        "email": "nalabadi@uj.edu.sa ",
+                        "date": "17-5-1443 ",
                         "committee": "وحدة خدمة المجتمع والعمل التطوعي",
-                        "description": "مبادرة توعوية تم عملها في عدة مدارس ثانوية في مدينة جدة ومحافظة الكامل ",
+                        "description": "مبادرة تطوعية مجتمعية تستهدف طالبات المدرسة لتدريبهن على عدد من المهارات ",
                         "outcome": [
-                        "نشر الوعي بمرض الزهايمر",
+                        "",
                         "ارشادات التعامل مع مريض الزهايمر",
                         "الوعي بالأغذية المفيدة للوقاية من الزهايمر",
                         ],
-                        "place": "عدة مدارس ثانوية بجدة والكامل",
+                        "place": "عدد من مدارس محافظة الكامل",
                         "vol_count": "10",
                         "pics": [
-                            '#',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7282/56032_skill.JPG',
+                        ]
+                    },
+                    {
+                        "title": "مبادرة أبناؤنا",
+                        "owner": "د.نورا العبادي",
+                        "email": "nalabadi@uj.edu.sa ",
+                        "date": "23-5-1443 ",
+                        "committee": "وحدة خدمة المجتمع والعمل التطوعي",
+                        "description": "مبادرة تطوعية مجتمعية تستهدف أبناء جمعية البر وتوفير الهدايا لهم مع تنفيذ بعض الأنشطة معهم ",
+                        "outcome": [
+                        "",
+                        "ارشادات التعامل مع مريض الزهايمر",
+                        "الوعي بالأغذية المفيدة للوقاية من الزهايمر",
+                        ],
+                        "place": "جمعية البر بجدة",
+                        "vol_count": "18",
+                        "pics": [
+                            'https://www.uj.edu.sa/Files/856/Galleries/7282/56031_oursons.JPG',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7282/56034_IMG_4131.jpg',
+                        ]
+                    },
+                    {
+                        "title": "مبادرة برنامج الإدارة الرقمية المتكاملة",
+                        "owner": "أ.عزالدين المفتاحي",
+                        "email": "nalabadi@uj.edu.sa ",
+                        "date": "16-6-1443:2-7-1443 ",
+                        "committee": "وحدة خدمة المجتمع والعمل التطوعي",
+                        "description": "مبادرة تطوعية مجتمعية تستهدف وكلاء الكليات ومشروفو الأقسام ومدراء الإدارات لتعريف بأهمية الإدارة الرقمية المتكاملة ",
+                        "outcome": [
+                        "التعريف ببرنامج الإدارة الرقمية المستخدم بالكلية",
+                        "نشر ثقافة الأرشفة الرقمية وطريقة حفظ الوثائق إلكترونياَ",
+                        "التطبيق العملي لواجهة البرنامج والتوصية بتطبيقة بالكليات الأخرى",
+                        ],
+                        "place": "عبر منصة البلاك بورد",
+                        "vol_count": "5",
+                        "pics": [
+                            'https://www.uj.edu.sa/Files/856/Galleries/7282/56025_IDM.JPG',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7282/56026_IDM2.JPG',
                         ]
                     },
                 ]
@@ -397,7 +457,11 @@ var app = new Vue({
                         "place": "كلية العلوم والآداب بالكلية",
                         "vol_count": "6",
                         "pics": [
-                            '#',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7283/56041_productivefamilies.jpg',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7283/56043_productivefamilies3.jpg',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7283/56045_productivefamilies4.jpg',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7283/56046_productivefamilies5.jpg',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7283/56047_productivefamilies6.jpg',
                         ]
                     },
                        {
@@ -416,7 +480,11 @@ var app = new Vue({
                         "place": "كلية العلوم والآداب بالكامل",
                         "vol_count": "4",
                         "pics": [
-                            '#',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7283/56035_book.jpg',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7283/56036_book2.jpg',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7283/56037_IMG-20200226-WA0053.jpg',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7283/56038_IMG-20200226-WA0050.jpg',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7283/56039_IMG-20200227-WA0068.jpg',
                         ]
                     },
                       {
