@@ -578,6 +578,9 @@ padding-left: 0.5rem;
 	border: 0px;
 	transform: rotate(180deg);
 }
+.form-select {
+    margin-right: 7px;
+}
 #BreadcrumbTB{
   display: none;
 }
