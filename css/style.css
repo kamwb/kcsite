@@ -585,6 +585,7 @@ padding-left: 0.5rem;
   display: none;
 }
 .page_title{
+  line-height: 0;
   background-image: url('https://www.uj.edu.sa/Files/856/Galleries/7273/55966_bg.png')
 }
 span#lblsite_name {
