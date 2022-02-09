@@ -1,7 +1,69 @@
 const mathm = [
+    
+      {
+      year: "2022",
+      list: [
+        {
+          title: "Kanayo K. Asogwa, M.D. Alsulami, B.C. Prasannakumara, Taseer Muhammad. ",
+          subtitle: "“Double diffusive convection and cross dffusion effects on Casson fluid over a Lorentz force driven Riga plate in a porous medium with heat sink: An analytical approach”, ",
+          italic: "International Communications in Heat and Mass Transfer. ",
+          pp: "Vol. 131, February 2022, 105761, (2022).",
+          url: "https://doi.org/10.1016/j.icheatmasstransfer.2021.105761",
+        },
+        {
+          title: "Tarig M. Elzaki, Shams A. Ahmed, Mounirah Areshi, Mourad Chamekh, ",
+          subtitle: "“Fractional partial differential equations and novel double integral transform”. ",
+          italic: " Journal of King Saud University – Science. ",
+          pp: "(2022) ",
+          url: "https://doi.org/10.1016/j.jksus.2022.101832",
+        },
+        {
+          title: "Adnan, Umar Khan, Naveed Ahmed, Syed Tauseef Mohyud Din, M. D. Alsulami, Ilyas Khan, ",
+          subtitle: "“A novel analysis of heat transfer in the nanofluid composed by nanodimaond and silver nanomaterials: numerical investigation”. ",
+          italic: "Scientific Reports. ",
+          pp: "(2022) 12:1284.",
+          url: "https://doi.org/10.1038/s41598-021-04658-x",
+        },
+        {
+          title: "M. C. Jayaprakash, M. D. Alsulami, Bandari Shanker & R. S. Varun Kumar, ",
+          subtitle: "“Investigation of Arrhenius activation energy and convective heat transfer efficiency in radiative hybrid nanofluid flow”.",
+          italic: "Waves in Random and Complex Media",
+          pp: " (2022)",
+          url: "https://doi.org/10.1080/17455030.2021.2022811",
+        },
+        {
+          title: "D. O. Soumya, B. J. Gireesha, P. Venkatesh & M. D. Alsulami, ",
+          subtitle: "“Effect of NP shapes on Fe3O4 – Ag/kerosene and Fe3O4 – Ag/water hybrid nanofluid flow in suction/injection process with nonlinear-thermal-radiation and slip condition; Hamilton and Crosser's model” ",
+          italic: " Waves in Random and Complex Media ",
+          pp: "(2022)",
+          url: "https://doi.org/10.1080/17455030.2021.2022813",
+        },
+        ]
+      },
     {
     year: "2021",
     list: [
+       {
+        title: "M.D. Alsulami , Hanaa Abu-Zinadah , Anwar Hassan Ibrahim. ",
+        subtitle: "“Machine Learning Model and Statistical Methods for COVID-19 Evolution Prediction” ",
+        italic: "Wireless Communications and Mobile Computings. ",
+        pp: "Vol. 2021, Article ID 4840488, 6 pages.",
+        url: "https://doi.org/10.1155/2021/4840488",
+      },
+       {
+        title: "Mourad Chamekh, Mohamed Ali Latrach, Tarig M. Elzaki. ",
+        subtitle: "“Approximate analytical solutions for some obstacle problems” ",
+        italic: "Journal of King Saud University–Science. ",
+        pp: "Vol. Vol. 33 (2021) 101259.",
+        url: "https://www.researchgate.net/publication/347429561",
+      },
+       {
+        title: "J. K. Madhukesh, G. K. Ramesh, M. D. Alsulami & B. C. Prasannakumara. ",
+        subtitle: "“Characteristic of thermophoretic effect and convective thermal conditions on flow of hybrid nanofluid over a moving thin needle” ",
+        italic: "Waves in Random and Complex Media. ",
+        pp: " (2021).",
+        url: "https://doi.org/10.1080/17455030.2021.2012303",
+      },
       {
         title: "Amjad E. Hamza, Mohamed Z. Mohamed, Eltaib M. Abd Elmohmoud, and M. Magzoub. ",
         subtitle: "“Conformable Sumudu Transform of Space-Time Fractional Telegraph Equation” ",
