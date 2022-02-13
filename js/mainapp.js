@@ -4,6 +4,13 @@ var app = new Vue({
       latestNews: [
         {
           title:
+            "تعلن لجنة النوادي العلمية بـ #كلية_العلوم_والآداب_بالكامل بالتعاون مع نادي الرياضيات بالكلية عن تقديم دورة تدريبية بعنوان قوانين نيوتن للحركة",
+          image:
+            "https://www.uj.edu.sa/Files/856/Galleries/7270/56111_nn.jpg",
+          url: "https://www.uj.edu.sa/Files/856/Galleries/7270/56111_nn.jpg",
+        },
+          {
+          title:
             "اللقاء الثاني لبرنامج الإدارة الرقمية المتكاملة",
           image:
             "https://www.uj.edu.sa/Files/856/Galleries/7270/56019_IDM.JPG",
