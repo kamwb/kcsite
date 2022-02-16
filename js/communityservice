@@ -558,7 +558,7 @@ var app = new Vue({
                         "place": "مقر الكلية",
                         "duration": "خمس أيام لمدة عشر ساعات",
                         "pics": [
-                            'https://www.uj.edu.sa/Files/856/Galleries/7285/56104_89.jpg',
+                            ' ',
                         ]
                     },
                       {
@@ -598,7 +598,7 @@ var app = new Vue({
 		    {
                         "title": "دورة أساسيات اللغة الإنجليزية (محادثة)",
 		        "type": "دورة تدريبية",
-                        "owner": "د. عبد الله المومني&أ..خالد ابو قدوم",
+                        "owner": "د. عبد الله المومني&أ.خالد ابو قدوم",
                         "email": " ",
                         "date": "10-2-1441",
                         "committee": "وحدة خدمة المجتمع والعمل التطوعي",
@@ -724,8 +724,8 @@ var app = new Vue({
                         "place": "مدرسة ثانوية رفيدة الأنصارية ",
                         "duration": "يوم",
                         "pics": [
-                            '',
-			    '',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7285/56123_Qualification.jpg',
+			    'https://www.uj.edu.sa/Files/856/Galleries/7285/56124_Qualification2.jpg',
                         ]
                     },
 		    {
@@ -864,8 +864,8 @@ var app = new Vue({
 		     {
                         "title": "كيفية استخدام الترميز الشريطي (الباركود)",
 		        "type": "خدمة مجتمعية",
-                        "owner": " ",
-                        "email": " ",
+                        "owner": "أ.فاطمة السلمي&أ.هيا السلمي ",
+                        "email": "aeaalsulami1@uj.edu.sa",
                         "date": "22-6-1441",
                         "committee": "وحدة خدمة المجتمع والعمل التطوعي",
                         "objectives": [
@@ -876,7 +876,7 @@ var app = new Vue({
                         "place": "مكتب الاشراف التربوي بالكامل",
                         "duration": "ساعتين",
                         "pics": [
-                            '',
+                            'https://www.uj.edu.sa/Files/856/Galleries/7285/56125_Slide1.JPG',
 			    '',
                         ]
                     },
