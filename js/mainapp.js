@@ -181,6 +181,10 @@ var app = new Vue({
           url: "https://csa.uj.edu.sa/Pages-%d8%a7%d9%84%d8%aa%d9%88%d8%ab%d9%8a%d9%82-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a.aspx"
         },
         {
+          title: "منصة عرض الفعاليات",
+          url: "#"
+        },
+        {
           title: "تويتر",
           url: "https://twitter.com/UJ_Alkamil"
         },
