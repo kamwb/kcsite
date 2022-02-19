@@ -174,11 +174,11 @@ var app = new Vue({
         },
         {
           title: "بيت الخبرة بالكلية",
-          url: "https://csa.uj.edu.sa/Pages-%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d8%ae%d8%a8%d8%b1%d8%a9.aspx?UrlSer=1"
+          url: "#"
         },
         {
           title: "وحدة التوثيق الاعلامي",
-          url: "https://csa.uj.edu.sa/Pages-%d8%a7%d9%84%d8%aa%d9%88%d8%ab%d9%8a%d9%82-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%85%d9%8a.aspx"
+          url: "#"
         },
         {
           title: "منصة عرض الفعاليات",
