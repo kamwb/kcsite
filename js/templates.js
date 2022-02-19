@@ -27,7 +27,7 @@ Vue.component('imageSlider', {
   <div class="carousel-inner">
   <div v-for="(item, index) in items" :key="index" class="carousel-item" v-bind:class="{ 'active': index == 0 }">
     <div class="themeum-topstories-item">
-      <a class="review-item-image" :href="item.url !== '#' ? item.url:null">
+      <a class="review-item-image" :href="item.url !== '#' ? item.url:null" target="_blank">
         <img alt="" class="img-responsive" :src="item.image"/>
       </a>
       <div>
