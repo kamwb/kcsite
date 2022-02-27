@@ -1,7 +1,7 @@
 var app = new Vue({
   el: "#app",
   data: {
-    bannerImg: "",
+    bannerImg: "https://www.uj.edu.sa/Images/0/uj-website-img/ads74.png",
     latestNews: [
       {
         title:
