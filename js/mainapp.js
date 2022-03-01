@@ -8,7 +8,7 @@ var app = new Vue({
           "تعلن لجنة النوادي العلمية بـ #كلية_العلوم_والآداب_بالكامل بالتعاون مع نادي الرياضيات بالكلية عن تقديم دورة تدريبية بعنوان قوانين نيوتن للحركة",
         image:
           "https://www.uj.edu.sa/Files/856/Galleries/7270/56111_nn.jpg",
-        url: "https://www.uj.edu.sa/Files/856/Galleries/7270/56111_nn.jpg",
+        url: "https://csa.uj.edu.sa/Pages-newteen.aspx",
       },
         {
         title:
