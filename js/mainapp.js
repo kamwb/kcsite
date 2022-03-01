@@ -15,7 +15,7 @@ var app = new Vue({
           "اللقاء الثاني لبرنامج الإدارة الرقمية المتكاملة",
         image:
           "https://www.uj.edu.sa/Files/856/Galleries/7270/56019_IDM.JPG",
-        url: "#",
+        url: "https://csa.uj.edu.sa/Pages-IDM22.aspx",
       },
 {
         title:
