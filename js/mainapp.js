@@ -29,7 +29,7 @@ var app = new Vue({
           "اللقاء الأول لبرنامج الإدراة الرقمية المتكاملة",
         image:
           "https://www.uj.edu.sa/Files/856/Galleries/7270/55983_%D8%B4%D8%B1%D9%8A%D8%AD%D8%A91.JPG",
-        url: "#",
+        url: "https://csa.uj.edu.sa/Pages-IDM1.aspx",
       },
 {
         title:
