@@ -21,7 +21,7 @@ var app = new Vue({
                     sponsor: "قسم الرياضيات",
                     date: "20-01-2021",
                     poster: "Files/856/Galleries/7279/55984_semi1.jpg",
-                    video: "https://jeddahu-my.sharepoint.com/personal/csa_math_kamil_uj_edu_sa/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fcsa_math_kamil_uj_edu_sa%2FDocuments%2FSeminar%2F1442%2Fsome+topics+in+convolution+theory+Prof.+Tarig+M.+Elzaki.mp4&ccat=0&correlationid=0269f062-066d-4ea2-866c-63551e66f965",
+                    video: "https://jeddahu-my.sharepoint.com/:v:/g/personal/csa_math_kamil_uj_edu_sa/ERoYKkpnXkBChlRJNBhUh14BqsCkPnQqi7I2eWz_ZLgh6A?e=isqJuT",
                     url: "",
                 },
                 {
@@ -48,7 +48,7 @@ var app = new Vue({
                     sponsor: "قسم الرياضيات",
                     date: "24-02-2021",
                     poster: "Files/856/Galleries/7279/55987_semi4.jpg",
-                    video: "https://jeddahu-my.sharepoint.com/personal/csa_math_kamil_uj_edu_sa/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fcsa_math_kamil_uj_edu_sa%2FDocuments%2FSeminar%2F1442%2FStochastic+model+for+diminishing+Musharakah+finance+in+Islamic+bank+Dr.+Majdi+D.+Alsulami.mp4&ccat=0&correlationid=9d6009f2-aeb8-4507-a6ec-c57b32becf6c",
+                    video: "https://jeddahu-my.sharepoint.com/:v:/g/personal/csa_math_kamil_uj_edu_sa/EWA8llVCWm5Hg-WaiFsfDQoBQHWZ2XAVkmRKMNTSlHKahQ?e=suYL1f",
                     url: "",
                 },
                 {
@@ -57,7 +57,7 @@ var app = new Vue({
                     sponsor: "قسم الرياضيات",
                     date: "03-03-2021",
                     poster: "Files/856/Galleries/7279/55988_semi5.jpg",
-                    video: "https://jeddahu-my.sharepoint.com/personal/csa_math_kamil_uj_edu_sa/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fcsa_math_kamil_uj_edu_sa%2FDocuments%2FSeminar%2F1442%2FGOODNESS-OF-FIT+TESTS+FOR+THE+BETA+GOMPERTZ+DISTRIBUTION+Hanaa+Abu-Zinadah.mp4&ccat=0&correlationid=706b89e1-9945-4521-af2f-beeed959003d",
+                    video: "https://jeddahu-my.sharepoint.com/:v:/g/personal/csa_math_kamil_uj_edu_sa/EeKH1tFwDE9DiRAym6oX6w4Bzs8sEHY0pq6_NJsJxG0zOw?e=Cm2nBF",
                     url: "",
                 },
                 {
@@ -84,7 +84,7 @@ var app = new Vue({
                     sponsor: "قسم الرياضيات",
                     date: "24-03-2021",
                     poster: "Files/856/Galleries/7279/55990_semi8.jpg",
-                    video: "https://jeddahu-my.sharepoint.com/personal/csa_math_kamil_uj_edu_sa/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fcsa_math_kamil_uj_edu_sa%2FDocuments%2FSeminar%2F1442%2FEvaluation+of+multivariate+GARCH+models+in+an+optimal+asset+allocation+framework+Dr.+Haslifah+Hasim.mp4&ccat=0&correlationid=ee57456e-275b-416d-b8f9-4c38cccc8350",
+                    video: "https://jeddahu-my.sharepoint.com/:v:/g/personal/csa_math_kamil_uj_edu_sa/EZlbXhSGXDtEvOfPV-PTL1oBqslMSk3P6q0Ii6NoANC6OA?e=T1Kn9J",
                     url: "",
                 },
                 {
@@ -93,7 +93,7 @@ var app = new Vue({
                     sponsor: "قسم الرياضيات",
                     date: "31-03-2021",
                     poster: "Files/856/Galleries/7279/55991_semi9.jpg",
-                    video: "https://jeddahu-my.sharepoint.com/personal/csa_math_kamil_uj_edu_sa/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fcsa_math_kamil_uj_edu_sa%2FDocuments%2FSeminar%2F1442%2FCoexistence+in+the+Chemostat+Modeling+and+Analysis+Dr.+Miled+El+Hajji.mp4&ccat=0&correlationid=dca36a0f-f6f0-4225-9fef-105837f31eb7",
+                    video: "https://jeddahu-my.sharepoint.com/:v:/g/personal/csa_math_kamil_uj_edu_sa/EUkPxSkvQTlFgKKQhjN4AhEBoZjDeKacNKt1GM4LFHBVNg?e=W5PECg",
                     url: "",
                 },
                 {
@@ -120,7 +120,7 @@ var app = new Vue({
                     date: "27-09-2021",
                     sponsor: "قسم الرياضيات",
                     poster: "Files/856/Galleries/7279/55992_semi11.png",
-                    video: "https://jeddahu-my.sharepoint.com/personal/csa_math_kamil_uj_edu_sa/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fcsa_math_kamil_uj_edu_sa%2FDocuments%2FSeminar%2F1443%2FOptimal+Porosity+Designs+for+Gas+Diffusion+Layers+of+Hydrogen+Fuel+Cells.mp4&ccat=0&correlationid=90dba831-9874-4b0c-8192-75caa6f98b4a",
+                    video: "https://jeddahu-my.sharepoint.com/:v:/g/personal/csa_math_kamil_uj_edu_sa/ER_CbKigiKxBtl5kyqyvoT8B8w0hiNo6Q6lOvEsODNkymA?e=uCIM5X",
                     url: "",
                 },
                 {
@@ -129,7 +129,7 @@ var app = new Vue({
                     date: "6-10-2021",
                     sponsor: "قسم الرياضيات",
                     poster: "Files/856/Galleries/7279/55993_semi12.png",
-                    video: "https://jeddahu-my.sharepoint.com/personal/csa_math_kamil_uj_edu_sa/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fcsa_math_kamil_uj_edu_sa%2FDocuments%2FSeminar%2F1443%2FReconstruction+of+an+impenetrable+obstacle+using+few+incident+acoustic+waves.mp4&ccat=0&correlationid=9f85187b-7379-40ed-9b2b-d4b6fbf75d45",
+                    video: "https://jeddahu-my.sharepoint.com/:v:/g/personal/csa_math_kamil_uj_edu_sa/EdJm3sEaI59HjV83ATGv7IQBVAgYEIoltIYA7cZIHI8Taw?e=JmHImf",
                     url: "",
                 },
                 {
@@ -138,7 +138,7 @@ var app = new Vue({
                     date: "18-10-2021",
                     sponsor: "قسم الرياضيات",
                     poster: "Files/856/Galleries/7279/55994_semi13.png",
-                    video: "https://jeddahu-my.sharepoint.com/personal/csa_math_kamil_uj_edu_sa/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fcsa_math_kamil_uj_edu_sa%2FDocuments%2FSeminar%2F1443%2FHow+to+write+an+effective+scientific+paper.mp4&ccat=0&correlationid=89d4a5d1-c5af-42bb-9a7f-e75fc8245456",
+                    video: "https://jeddahu-my.sharepoint.com/:v:/g/personal/csa_math_kamil_uj_edu_sa/EdTh6d0uP7lOokSIvK-9w10B1qcXI2NNjPq4PjMHWGjeQw?e=WggWqc",
                     url: "",
                 },
                 {
@@ -147,7 +147,7 @@ var app = new Vue({
                     date: "1-11-2021",
                     sponsor: "قسم الرياضيات",
                     poster: "Files/856/Galleries/7279/55995_semi14.jpg",
-                    video: "https://jeddahu-my.sharepoint.com/personal/csa_math_kamil_uj_edu_sa/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fcsa_math_kamil_uj_edu_sa%2FDocuments%2FSeminar%2F1443%2FA+conforming+locking-free+approximation+for+a+Koiter+shell.mp4&ccat=0&correlationid=bdf0f1bf-7987-4866-acd0-41b305f2f884",
+                    video: "https://jeddahu-my.sharepoint.com/:v:/g/personal/csa_math_kamil_uj_edu_sa/EeAuqe9XWbhBrL2MCXlNjqUBSZHmoWgDQTVkMBKEvD5rwQ?e=nPGfnP",
                     url: "",
                 },
                 {
@@ -156,7 +156,7 @@ var app = new Vue({
                     date: "15-11-2021",
                     sponsor: "قسم الرياضيات",
                     poster: "Files/856/Galleries/7279/55996_semi15.jpg",
-                    video: "https://jeddahu-my.sharepoint.com/personal/csa_math_kamil_uj_edu_sa/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fcsa_math_kamil_uj_edu_sa%2FDocuments%2FSeminar%2F1443%2FIdentification+of+points+sources+via+time+fractional+diffusion+equation+Dr+Iman.mp4&ccat=0&correlationid=57e48a42-ca62-4383-a64b-456596ca6f78",
+                    video: "https://jeddahu-my.sharepoint.com/:v:/g/personal/csa_math_kamil_uj_edu_sa/EW0tpBxDX5pOhBr3ZYHJ3E8BDh5TLvGQUL1wDDDCb6nkQA?e=wAgSxM",
                     url: "",
                 },
                 {
@@ -165,7 +165,7 @@ var app = new Vue({
                     date: "29-11-2021",
                     sponsor: "قسم الرياضيات",
                     poster: "Files/856/Galleries/7279/55997_semi16.jpg",
-                    video: "https://jeddahu-my.sharepoint.com/personal/csa_math_kamil_uj_edu_sa/_layouts/15/download.aspx?SourceUrl=%2Fpersonal%2Fcsa_math_kamil_uj_edu_sa%2FDocuments%2FSeminar%2F1443%2Flyas+Khan.mp4&ccat=0&correlationid=33f1b6a0-f6a6-43f5-b12e-f9169c6edf20",
+                    video: "https://jeddahu-my.sharepoint.com/:v:/g/personal/csa_math_kamil_uj_edu_sa/EWHNbINGYflBvrEmtBl3V5MBPYwntASurzvBOpKRSI5jzA?e=D5R3gz",
                     url: "",
                 },
                 {
