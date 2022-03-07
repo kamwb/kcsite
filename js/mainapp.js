@@ -193,8 +193,8 @@ var app = new Vue({
     importantTips: [
       {
           image:
-              "https://www.uj.edu.sa/Files/856/Galleries/7272/55952_%D8%AC%D8%AF%D9%88%D9%84%20%D8%A8%D8%AF%D9%8A%D9%84.jpg",
-          text: "جدول اختبارات الفترة الثانية (البديلة ) لطلاب وطالبات السنة التحضيرية",
+              "https://www.uj.edu.sa/Files/856/Galleries/7268/56141_eexam.png",
+          text: "جدول الإختبارات الطلاب وطالبات السنة التحضيرية",
           url: "https://t.co/PbhrAsNniS?amp=1",
       },{
           image:
