@@ -22,7 +22,7 @@ var app = new Vue({
             "email": "",
             "date": "",
             "place": "",
-			"duration":
+	    "duration": "",
             "pics": [
                 '#',
             ]
