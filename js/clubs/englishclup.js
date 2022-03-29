@@ -110,7 +110,7 @@ var app = new Vue({
                 date: "28-2-1442",
                 place: "BlackBoard",
                 duration: "2 hourse",
-                pics: [" "],
+                pics: ["https://www.uj.edu.sa/Files/856/Galleries/7294/56194_reading.jpg"],
               },
               {
                 title: "How to expand your vocabulary",
@@ -120,7 +120,7 @@ var app = new Vue({
                 date: "4-3-1442",
                 place: "BlackBoard",
                 duration: "2 hourse",
-                pics: [" "],
+                pics: ["https://www.uj.edu.sa/Files/856/Galleries/7294/56195_vocabulary.jpg"],
               },
               {
                 title: "An introduction to IELTS test",
@@ -150,7 +150,7 @@ var app = new Vue({
                 date: "22-6-1442",
                 place: "BlackBoard",
                 duration: "6 week /2 hourse",
-                pics: [" "],
+                pics: ["https://www.uj.edu.sa/Files/856/Galleries/7294/56192_grammerbasics.jpg"],
               },
               {
                 title: "Developing English language skills course",
@@ -170,7 +170,7 @@ var app = new Vue({
                 date: "4-8-1442",
                 place: "BlackBoard",
                 duration: "2 hourse",
-                pics: [" "],
+                pics: ["https://www.uj.edu.sa/Files/856/Galleries/7294/56191_english.jpg "],
               },
               {
                 title:
