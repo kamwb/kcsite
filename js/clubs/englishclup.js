@@ -88,6 +88,16 @@ var app = new Vue({
             place: "BlackBoard",
             duration: "1 hourse",
             pics: [" "],
+          },
+          {
+            title: "How To Correctly Pronounce English Words - Silent Letters",
+            type: "Training program",
+            owner: "Balqees Alsulamy",
+            email: "bnalsulami1@uj.edu.sa",
+            date: "27-8-1443",
+            place: "BlackBoard",
+            duration: "2 hourse",
+            pics: [" "],
           }]},
           {
             year: "1441-1442",
