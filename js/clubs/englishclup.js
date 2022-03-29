@@ -70,6 +70,16 @@ var app = new Vue({
             pics: [" "],
           },
           {
+            title: "Translation rules and basics",
+            type: "Training program",
+            owner: "Siham Asa’ad",
+            email: "saassad@uj.edu.sa",
+            date: "27-7-1443",
+            place: "BlackBoard",
+            duration: "2 hourse",
+            pics: [" "],
+          },
+          {
             title: "Tips to improve your English",
             type: "Training program",
             owner: "Madiha Al sulamy",
