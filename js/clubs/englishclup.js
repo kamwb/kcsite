@@ -165,31 +165,6 @@ var app = new Vue({
               },
             ],
           },
-          {
-            year: "1440-1441",
-            list: [
-              {
-                title: "Strategies for developing reading and writing skills",
-                type: "Training program",
-                owner: "Balqees Alsulamy",
-                email: "bnalsulami1@uj.edu.sa",
-                date: "22-3-1443",
-                place: "BlackBoard",
-                duration: "2 hourse",
-                pics: [" "],
-              },
-              {
-                title: "English Pronunciation Rules",
-                type: "Training program",
-                owner: "Balqees Alsulamy",
-                email: "bnalsulami1@uj.edu.sa",
-                date: "12-3-1442",
-                place: "BlackBoard",
-                duration: "2 hourse",
-                pics: [" "],
-              },
-            ],
-          },
         ],
       },
 });
