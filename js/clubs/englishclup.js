@@ -37,7 +37,7 @@ var app = new Vue({
             date: "29-2-1443",
             place: "BlackBoard",
             duration: "2 hourse",
-            pics: [" "],
+            pics: ["https://www.uj.edu.sa/Files/856/Galleries/7294/56184_rules.jpg"],
           },
           {
             title: "Strengthening listening and speaking skills in English",
@@ -47,7 +47,7 @@ var app = new Vue({
             date: "30-2-1443",
             place: "BlackBoard",
             duration: "2 hourse",
-            pics: [" "],
+            pics: ["https://www.uj.edu.sa/Files/856/Galleries/7294/56183_listining.png "],
           },
           {
             title: "Strategies for developing reading and writing skills",
@@ -57,7 +57,7 @@ var app = new Vue({
             date: "22-3-1443",
             place: "BlackBoard",
             duration: "2 hourse",
-            pics: [" "],
+            pics: ["https://www.uj.edu.sa/Files/856/Galleries/7294/56190_writing.png"],
           },
           {
             title: "English Spelling Rules",
@@ -67,7 +67,7 @@ var app = new Vue({
             date: "5-5-1443",
             place: "BlackBoard",
             duration: "2 hourse",
-            pics: [" "],
+            pics: ["https://www.uj.edu.sa/Files/856/Galleries/7294/56187_spiling%20rule.png"],
           },
           {
             title: "Translation rules and basics",
@@ -77,7 +77,7 @@ var app = new Vue({
             date: "27-7-1443",
             place: "BlackBoard",
             duration: "2 hourse",
-            pics: [" "],
+            pics: ["https://www.uj.edu.sa/Files/856/Galleries/7294/56189_translation.jpg"],
           },
           {
             title: "Tips to improve your English",
@@ -87,7 +87,7 @@ var app = new Vue({
             date: "25-8-1443",
             place: "BlackBoard",
             duration: "1 hourse",
-            pics: [" "],
+            pics: ["https://www.uj.edu.sa/Files/856/Galleries/7294/56188_tips.jpg"],
           },
           {
             title: "How To Correctly Pronounce English Words - Silent Letters",
@@ -97,7 +97,7 @@ var app = new Vue({
             date: "27-8-1443",
             place: "BlackBoard",
             duration: "2 hourse",
-            pics: [" "],
+            pics: ["https://www.uj.edu.sa/Files/856/Galleries/7294/56185_silient%20letter.jpg"],
           }]},
           {
             year: "1441-1442",
@@ -181,7 +181,7 @@ var app = new Vue({
                 date: "22-8-1442",
                 place: "BlackBoard",
                 duration: "2 hourse",
-                pics: [" "],
+                pics: ["https://www.uj.edu.sa/Files/856/Galleries/7294/56186_skills.jpg "],
               },
             ],
           },
