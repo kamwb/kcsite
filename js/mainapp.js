@@ -5,6 +5,62 @@ var app = new Vue({
     latestNews: [
       {
         title:
+          "محاضرة توعوية بعنوان استثمار رمضان",
+        image:
+          "https://www.uj.edu.sa/Files/856/Galleries/7270/56206_ramdan.jpg",
+        url: " ",
+      },
+      {
+        title:
+          "سعادة محافظ الكامل يستقبل عميد كلية العلوم والآداب وعدد من رؤوساء الأقسام",
+        image:
+          "https://www.uj.edu.sa/Files/856/Galleries/7270/56197_alkamil.jpg",
+        url: " ",
+      },
+      {
+        title:
+          "مبادرة بركات رمضانية",
+        image:
+          "https://www.uj.edu.sa/Files/856/Galleries/7270/56205_Ramadan%20blessings.jpg",
+        url: " ",
+      },
+      {
+        title:
+          "محاضرة بعنوان التربية بنشر الحب",
+        image:
+          "https://www.uj.edu.sa/Files/856/Galleries/7270/56200_education.jpg",
+        url: " ",
+      },
+      {
+        title:
+          "تعلن وحدة الانشطة الطلابية بكلية العلوم والآداب بالكامل شطر الطالبات عن تنفيذ المسابقة الثقافية السنوية",
+        image:
+          "https://www.uj.edu.sa/Files/856/Galleries/7270/56199_Competition.jpg",
+        url: " ",
+      },
+      {
+        title:
+          "تعلن وحدة العمل التطوعي وخدمة المجتمع عن إقامة حملة للتوعية بإضرار المخدرات والسموم والمؤثرات العقلية",
+        image:
+          "https://www.uj.edu.sa/Files/856/Galleries/7270/56201_effects.jpg",
+        url: " ",
+      },
+      {
+        title:
+          "يعلن نادي اللغة الانجليزية عن تقديم محاضرة بعنوان Tips to improve your English",
+        image:
+          "https://www.uj.edu.sa/Files/856/Galleries/7270/56208_Tips.jpg",
+        url: " ",
+      },
+      {
+        title:
+          "تدشين العيادة الطبية بالكلية",
+        image:
+          "https://www.uj.edu.sa/Files/856/Galleries/7270/56198_clinic.jpg",
+        url: " ",
+      },
+      {
+        title:
           "تعلن لجنة النوادي العلمية بـ #كلية_العلوم_والآداب_بالكامل بالتعاون مع نادي الرياضيات بالكلية عن تقديم دورة تدريبية بعنوان قوانين نيوتن للحركة",
         image:
           "https://www.uj.edu.sa/Files/856/Galleries/7270/56111_nn.jpg",
