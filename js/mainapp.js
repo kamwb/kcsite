@@ -182,12 +182,12 @@ var app = new Vue({
     ],
     branches: [
       {
-        title: "قسم اللغة الإنجليزية",
-        url: "https://csa-enlan.uj.edu.sa/Default.aspx?site_id=856004&amp;lng=AR"
-      },
-      {
         title: "قسم الرياضيات",
         url: "https://csa-kmath.uj.edu.sa/Default.aspx?Site_ID=856006&Lng=AR"
+      },
+      {
+        title: "قسم اللغة الإنجليزية",
+        url: "https://csa-enlan.uj.edu.sa/Default.aspx?site_id=856004&amp;lng=AR"
       },
       {
         title: "قسم الأحياء",
