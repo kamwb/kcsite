@@ -8,7 +8,7 @@ var app = new Vue({
           "محاضرة توعوية بعنوان استثمار رمضان",
         image:
           "https://www.uj.edu.sa/Files/856/Galleries/7270/56206_ramdan.jpg",
-        url: " ",
+        url: "#",
       },
       {
         title:
@@ -29,7 +29,7 @@ var app = new Vue({
           "محاضرة بعنوان التربية بنشر الحب",
         image:
           "https://www.uj.edu.sa/Files/856/Galleries/7270/56200_education.jpg",
-        url: " ",
+        url: "#",
       },
       {
         title:
@@ -43,21 +43,21 @@ var app = new Vue({
           "تعلن وحدة العمل التطوعي وخدمة المجتمع عن إقامة حملة للتوعية بإضرار المخدرات والسموم والمؤثرات العقلية",
         image:
           "https://www.uj.edu.sa/Files/856/Galleries/7270/56201_effects.jpg",
-        url: " ",
+        url: "https://csa.uj.edu.sa/Pages-competition.aspx",
       },
       {
         title:
           "يعلن نادي اللغة الانجليزية عن تقديم محاضرة بعنوان Tips to improve your English",
         image:
           "https://www.uj.edu.sa/Files/856/Galleries/7270/56208_Tips.jpg",
-        url: " ",
+        url: "#",
       },
       {
         title:
           "تدشين العيادة الطبية بالكلية",
         image:
           "https://www.uj.edu.sa/Files/856/Galleries/7270/56198_clinic.jpg",
-        url: " ",
+        url: "https://csa.uj.edu.sa/Pages-competition.aspx",
       },
       {
         title:
