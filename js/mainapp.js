@@ -15,7 +15,7 @@ var app = new Vue({
           "سعادة محافظ الكامل يستقبل عميد كلية العلوم والآداب وعدد من رؤوساء الأقسام",
         image:
           "https://www.uj.edu.sa/Files/856/Galleries/7270/56197_alkamil.jpg",
-        url: " ",
+        url: "https://csa.uj.edu.sa/Pages-Recepion.aspx",
       },
       {
         title:
