@@ -43,7 +43,7 @@ var app = new Vue({
           "تعلن وحدة العمل التطوعي وخدمة المجتمع عن إقامة حملة للتوعية بإضرار المخدرات والسموم والمؤثرات العقلية",
         image:
           "https://www.uj.edu.sa/Files/856/Galleries/7270/56201_effects.jpg",
-        url: "https://csa.uj.edu.sa/Pages-competition.aspx",
+        url: "https://csa.uj.edu.sa/Pages-effects.aspx",
       },
       {
         title:
