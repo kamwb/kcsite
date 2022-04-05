@@ -36,7 +36,7 @@ var app = new Vue({
           "تعلن وحدة الانشطة الطلابية بكلية العلوم والآداب بالكامل شطر الطالبات عن تنفيذ المسابقة الثقافية السنوية",
         image:
           "https://www.uj.edu.sa/Files/856/Galleries/7270/56199_Competition.jpg",
-        url: "https://csa.uj.edu.sa/Pages-ramadanblessing.aspx",
+        url: "https://csa.uj.edu.sa/Pages-competition.aspx",
       },
       {
         title:
