@@ -22,7 +22,7 @@ var app = new Vue({
           "مبادرة بركات رمضانية",
         image:
           "https://www.uj.edu.sa/Files/856/Galleries/7270/56205_Ramadan%20blessings.jpg",
-        url: " ",
+        url: "https://csa.uj.edu.sa/Pages-ramadanblessing.aspx",
       },
       {
         title:
@@ -36,7 +36,7 @@ var app = new Vue({
           "تعلن وحدة الانشطة الطلابية بكلية العلوم والآداب بالكامل شطر الطالبات عن تنفيذ المسابقة الثقافية السنوية",
         image:
           "https://www.uj.edu.sa/Files/856/Galleries/7270/56199_Competition.jpg",
-        url: " ",
+        url: "https://csa.uj.edu.sa/Pages-ramadanblessing.aspx",
       },
       {
         title:
