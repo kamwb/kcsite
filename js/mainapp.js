@@ -57,7 +57,7 @@ var app = new Vue({
           "تدشين العيادة الطبية بالكلية",
         image:
           "https://www.uj.edu.sa/Files/856/Galleries/7270/56198_clinic.jpg",
-        url: "https://csa.uj.edu.sa/Pages-competition.aspx",
+        url: "https://csa.uj.edu.sa/Pages-clinc.aspx",
       },
       {
         title:
