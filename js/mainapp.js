@@ -61,6 +61,20 @@ var app = new Vue({
       },
       {
         title:
+          "يعلن نادي اللغة الانجليزية عن تقديم محاضرة بعنوان HOW TO CORRECTLY PRONOUNCE ENGLISH WORDS",
+        image:
+          "https://www.uj.edu.sa/Files/856/Galleries/7270/56209_words.jpg",
+        url: "#",
+      },
+      {
+        title:
+          "يسر اللجنة الرياضية دعوتكم للمشاركة في النشاط الرياضي ماراثون الجري",
+        image:
+          "https://www.uj.edu.sa/Files/856/Galleries/7270/56204_marthon.jpg",
+        url: "#",
+      },
+      {
+        title:
           "تدشين العيادة الطبية بالكلية",
         image:
           "https://www.uj.edu.sa/Files/856/Galleries/7270/56198_clinic.jpg",
