@@ -29,15 +29,15 @@ var app = new Vue({
       {
         year: "1442-1443",
         list: [
-          {
-                        "title": "قوانين نيوتن للحركة",
-                        "owner": "د. موسى الجوارنة",
-                        "email": "",
-                        "date": "8-7-1443 ",
-                        "place": "منصة البلاك بورد",
+	  {
+                        "title": "تحليل التمثيلات البيانية للدوال",
+                        "owner": "د. الطيب محمد",
+                        "email": " ",
+                        "date": "22-3-1443",
+                        "place": "عبر منصة البلاك بورد",
                         "duration": "2 hours",
                         "pics": [
-                            'https://www.uj.edu.sa/Files/856/Galleries/7270/56111_nn.jpg',
+                            ' ',
                         ]
                     },
                        {
@@ -52,17 +52,6 @@ var app = new Vue({
                         ]
                     },
                     {
-                        "title": "تحليل التمثيلات البيانية للدوال",
-                        "owner": "د. الطيب محمد",
-                        "email": " ",
-                        "date": "22-3-1443",
-                        "place": "عبر منصة البلاك بورد",
-                        "duration": "2 hours",
-                        "pics": [
-                            ' ',
-                        ]
-                    },
-                    {
                         "title": "العمليات الحسابية بطرق سهلة",
                         "owner": " أ.أشواق كاسب",
                         "email": "akaseb@uj.edu.sa",
@@ -71,17 +60,6 @@ var app = new Vue({
                         "duration": "2 hours",
                         "pics": [
                             'https://www.uj.edu.sa/Files/856/Galleries/7295/56214_operation.jpg',
-                        ]
-                    },
-                    {
-                        "title": "استراتيجيات التعلم النشط في الرياضيات",
-                        "owner": "د.منى مجذوب",
-                        "email": "mmahmed@uj.edu.sa ",
-                        "date": "19-11-1443",
-                        "place": "عبر منصة البلاك بورد",
-                        "duration": "2 hours",
-                        "pics": [
-                            'https://www.uj.edu.sa/Files/856/Galleries/7295/56213_stratigies.jpg',
                         ]
                     },
                      {
@@ -95,6 +73,17 @@ var app = new Vue({
                             ' ',
                         ]
                     },
+		 {
+                        "title": "قوانين نيوتن للحركة",
+                        "owner": "د. موسى الجوارنة",
+                        "email": "",
+                        "date": "8-7-1443 ",
+                        "place": "منصة البلاك بورد",
+                        "duration": "2 hours",
+                        "pics": [
+                            'https://www.uj.edu.sa/Files/856/Galleries/7270/56111_nn.jpg',
+                        ]
+                    },
 					{
                         "title": "الاتصال ونهايات الدوال",
                         "owner": "د. الطيب محمد",
@@ -104,6 +93,17 @@ var app = new Vue({
                         "duration": "2 hours",
                         "pics": [
                             'https://www.uj.edu.sa/Files/856/Galleries/7295/56210_connection.jpg',
+                        ]
+                    },
+		                    {
+                        "title": "استراتيجيات التعلم النشط في الرياضيات",
+                        "owner": "د.منى مجذوب",
+                        "email": "mmahmed@uj.edu.sa ",
+                        "date": "19-11-1443",
+                        "place": "عبر منصة البلاك بورد",
+                        "duration": "2 hours",
+                        "pics": [
+                            'https://www.uj.edu.sa/Files/856/Galleries/7295/56213_stratigies.jpg',
                         ]
                     },
           ]},
