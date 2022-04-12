@@ -55,7 +55,7 @@ var app = new Vue({
                         "title": "مبادرة الطريق إلى محبة الله",
                         "owner": "د.خاتمة حمود",
                         "email": "khmoud@uj.edu.sa",
-                        "date": "13-4-1443:19-4-1443 ",
+                        "date": "13-4-1443",
                         "place": "عبر منصة البلاك بورد",
                         "duration": "1 month",
                         "pics": [
@@ -80,7 +80,7 @@ var app = new Vue({
                         "title": "مبادرة فطورك علينا",
                         "owner": "د.هبة الله عرابي ",
                         "email": "haorabi@uj.edu.sa ",
-                        "date": "1-5-1443:5-5-1443 ",
+                        "date": "1-5-1443",
                         "place": "كلية العلوم والآداب بالكامل",
                         "duration": "5 days",
                         "pics": [
@@ -92,7 +92,7 @@ var app = new Vue({
                         "title": "مبادرة مهارتك تصنع مستقبلك",
                         "owner": "د.نورا العبادي",
                         "email": "nalabadi@uj.edu.sa ",
-                        "date": "17-5-1443 ",
+                        "date": "17-5-1443",
                         "place": "عدد من مدارس محافظة الكامل",
                         "duration": "1 month",
                         "pics": [
@@ -103,7 +103,7 @@ var app = new Vue({
                         "title": "مبادرة أبناؤنا",
                         "owner": "د.نورا العبادي",
                         "email": "nalabadi@uj.edu.sa ",
-                        "date": "23-5-1443 ",
+                        "date": "23-5-1443",
                         "place": "جمعية البر بجدة",
                         "duration": "1 month",
                         "pics": [
