@@ -5,6 +5,13 @@ var app = new Vue({
     latestNews: [
       {
         title:
+          "تنفيذ مبادرة تطوعية رمضانكم علينا برباط الشاكرين بجدة",
+        image:
+          "https://www.uj.edu.sa/Files/856/Galleries/7270/56215_ramadan2.jpg",
+        url: "https://csa.uj.edu.sa/Pages-ramadan.aspx",
+      },
+      {
+        title:
           "محاضرة توعوية بعنوان استثمار رمضان",
         image:
           "https://www.uj.edu.sa/Files/856/Galleries/7270/56206_ramdan.jpg",
