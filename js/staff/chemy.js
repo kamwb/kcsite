@@ -3,6 +3,19 @@ var app = new Vue({
         data: {
           males: [
             {
+                name: "أحمد سليمان حسين",
+                email: "aseisa@uj.edu.sa",
+                img: "",
+                cv: "http://csa-kchem.uj.edu.sa/Files/856008/Files/154775_DR%20AHMED%20SULIMAN%20HUSSEIN.pdf",
+                caption: "أستاذ مساعد",
+            },  {
+                name: "وسام نادر",
+                email: "wslamah@uj.edu.sa",
+                img: "https://www.uj.edu.sa/Files/856006/Galleries/7292/56223_wesam.jpg",
+                cv: "http://csa-kchem.uj.edu.sa/Files/856008/Files/154775_Wessam-Nader.pdf",
+                caption: "أستاذ مساعد",
+            },
+                  {
                 name: "محمد أمين بن علي",
                 email: "maali@uj.edu.sa",
                 img: "",
@@ -16,20 +29,8 @@ var app = new Vue({
                 cv: "http://csa-kchem.uj.edu.sa/Files/856008/Files/154775_Fatah-CV.pdf",
                 caption: "أستاذ مساعد",
             },
-            {
-                name: "أحمد سليمان حسين",
-                email: "aseisa@uj.edu.sa",
-                img: "",
-                cv: "http://csa-kchem.uj.edu.sa/Files/856008/Files/154775_DR%20AHMED%20SULIMAN%20HUSSEIN.pdf",
-                caption: "أستاذ مساعد",
-            },
-            {
-                name: "وسام نادر",
-                email: "wslamah@uj.edu.sa",
-                img: "https://www.uj.edu.sa/Files/856006/Galleries/7292/56223_wesam.jpg",
-                cv: "http://csa-kchem.uj.edu.sa/Files/856008/Files/154775_Wessam-Nader.pdf",
-                caption: "أستاذ مساعد",
-            },
+          
+            
           ],
           females: [
           ]
