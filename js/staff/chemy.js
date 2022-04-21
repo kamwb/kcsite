@@ -26,7 +26,7 @@ var app = new Vue({
             {
                 name: "وسام نادر",
                 email: "wslamah@uj.edu.sa",
-                img: "",
+                img: "https://www.uj.edu.sa/Files/856006/Galleries/7292/56223_wesam.jpg",
                 cv: "http://csa-kchem.uj.edu.sa/Files/856008/Files/154775_Wessam-Nader.pdf",
                 caption: "أستاذ مساعد",
             },
