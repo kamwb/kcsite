@@ -17,11 +17,11 @@ var app = new Vue({
             caption: "استاذ مشارك",
         },
         {
-            name: "عبدالباسط مريود",
-            email: "aalnadif@uj.edu.sa",
-            img: "",
-            cv: "http://csa-kbio.uj.edu.sa/Files/856005/Files/154777_CV-Prof.%20Mariod.pdf",
-            caption: "استاذ مساعد	",
+          name: "مراد عبد العزيز الشامخ",
+          email: "maalshmikh@uj.edu.sa",
+          img: "https://www.uj.edu.sa/Files/856006/Galleries/7292/56155_murad.jpg",
+          cv: "https://csa-kmath.uj.edu.sa/Files/856006/Files/154709_CV-Mourad-Chamekh.pdf",
+          caption: "استاذ مشارك",
         },
         {
             name: "محمود محمد امرير	",
@@ -30,13 +30,7 @@ var app = new Vue({
             cv: "https://csa-kmath.uj.edu.sa/Files/856006/Files/154709_CV_%20Mahmod%20Amrir.pdf",
             caption: "استاذ مساعد	",
         },
-        {
-          name: "مراد عبد العزيز الشامخ",
-          email: "maalshmikh@uj.edu.sa",
-          img: "https://www.uj.edu.sa/Files/856006/Galleries/7292/56155_murad.jpg",
-          cv: "https://csa-kmath.uj.edu.sa/Files/856006/Files/154709_CV-Mourad-Chamekh.pdf",
-          caption: "استاذ مساعد",
-        },
+       
         {
           name: "مجدى ضيف الله السلمي",
           email: "mdalsolami@uj.edu.sa",
