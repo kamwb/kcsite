@@ -60,13 +60,13 @@ var app = new Vue({
             }, 
           ],
           females: [
-          ]
+         
                  {
                 name: "فخريه القرشي",
                 email: "",
                 img: "",
                 cv: "",
                 caption: "محاضر",
-            },
+            }, ]
         },
       });
