@@ -34,7 +34,7 @@ var app = new Vue({
                 name: "جعفر الكابلي",
                 email: "",
                 img: "",
-                cv: "",
+                cv: "ُEmpty",
                 caption: "أستاذ مساعد",
             }, 
                   {
