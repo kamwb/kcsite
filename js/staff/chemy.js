@@ -30,9 +30,43 @@ var app = new Vue({
                 caption: "أستاذ مساعد",
             },
           
-            
+               {
+                name: "جعفر الكابلي",
+                email: "",
+                img: "",
+                cv: "",
+                caption: "أستاذ مساعد",
+            }, 
+                  {
+                name: "ثامر الردادي",
+                email: "",
+                img: "",
+                cv: "",
+                caption: "أستاذ مساعد",
+            }, 
+                  {
+                name: "عبد الرحمن الصاعدي",
+                email: "",
+                img: "",
+                cv: "",
+                caption: "محاضر ",
+            }, 
+                  {
+                name: "عاطف الحربي",
+                email: "",
+                img: "",
+                cv: "",
+                caption: "محاضر",
+            }, 
           ],
           females: [
           ]
+                 {
+                name: "فخريه القرشي",
+                email: "",
+                img: "",
+                cv: "",
+                caption: "محاضر",
+            },
         },
       });
