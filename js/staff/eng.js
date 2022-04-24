@@ -3,19 +3,20 @@ var app = new Vue({
         data: {
           males: [
             {
-                name: "Abdullah Al Momani",
-                email: "amalmomanh@uj.edu.sa",
-                img: "",
-                cv: "http://csa-enlan.uj.edu.sa/Files/856004/Files/154776_Abdullah%20Momani.pdf",
-                caption: "أستاذ مساعد",
-            },
-            {
                 name: "Borni Mahmoud Lafi",
                 email: "04220323@uj.edu.sa",
                 img: "",
                 cv: "http://csa-enlan.uj.edu.sa/Files/856004/Files/154776_Borni%20Lafi.pdf",
                 caption: "أستاذ مساعد",
             },
+                  {
+                name: "Abdullah Al Momani",
+                email: "amalmomanh@uj.edu.sa",
+                img: "",
+                cv: "http://csa-enlan.uj.edu.sa/Files/856004/Files/154776_Abdullah%20Momani.pdf",
+                caption: "أستاذ مساعد",
+            },
+            
             {
                 name: "Mohammed Irfan Jowher",
                 email: "jowhermij@yahoo.com",
@@ -33,25 +34,11 @@ var app = new Vue({
           ],
           females: [
             {
-                name: "BALQEES ALSULAMI",
-                email: "bnalsulami@uj.edu.sa",
-                img: "",
-                cv: "http://csa-enlan.uj.edu.sa/Files/856004/Files/154776_Balgees%20Alsulami%20CV.pdf",
-                caption: "محاضر",
-            },
-            {
                 name: "Hebatullah A. Orabi",
                 email: "haorabi@uj.edu.sa",
                 img: "",
                 cv: "http://csa-enlan.uj.edu.sa/Files/856004/Files/154776_Hebatullah%20A.%20Orabi%20CV.pdf",
                 caption: "أستاذ مساعد",
-            },
-            {
-                name: "Madiha AL-Sulami ",
-                email: "mmaalsulami@uj.edu.sa",
-                img: "",
-                cv: "http://csa-enlan.uj.edu.sa/Files/856004/Files/154776_Madiha%20AlsulamiCV.pdf",
-                caption: "محاضر",
             },
             {
                 name: "Manal Alzahrani",
@@ -68,18 +55,33 @@ var app = new Vue({
                 caption: "أستاذ مساعد",
             },
             {
-                name: "Siham Asa’ad",
-                email: "saassad@uj.edu.sa",
-                img: "",
-                cv: "http://csa-enlan.uj.edu.sa/Files/856004/Files/154776_Siham%20Asaad%20CV.pdf",
-                caption: "محاضر",
-            },
-            {
                 name: "Sumaiyah A.salam Turkistani",
                 email: "saturkistani@uj.edu.sa",
                 img: "",
                 cv: "http://csa-enlan.uj.edu.sa/Files/856004/Files/154776_Sumaiyah%20Turkistani%20CV.pdf",
                 caption: "أستاذ مساعد",
+            },
+                  {
+                name: "BALQEES ALSULAMI",
+                email: "bnalsulami@uj.edu.sa",
+                img: "",
+                cv: "http://csa-enlan.uj.edu.sa/Files/856004/Files/154776_Balgees%20Alsulami%20CV.pdf",
+                caption: "محاضر",
+            },
+           
+            {
+                name: "Madiha AL-Sulami ",
+                email: "mmaalsulami@uj.edu.sa",
+                img: "",
+                cv: "http://csa-enlan.uj.edu.sa/Files/856004/Files/154776_Madiha%20AlsulamiCV.pdf",
+                caption: "محاضر",
+            },
+            {
+                name: "Siham Asa’ad",
+                email: "saassad@uj.edu.sa",
+                img: "",
+                cv: "http://csa-enlan.uj.edu.sa/Files/856004/Files/154776_Siham%20Asaad%20CV.pdf",
+                caption: "محاضر",
             },
             {
                 name: "ZULFA ALSULAMI",
