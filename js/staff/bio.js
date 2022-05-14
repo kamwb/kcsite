@@ -16,11 +16,25 @@ var app = new Vue({
             cv: "http://csa-kbio.uj.edu.sa/Files/856005/Files/154777_CV-Prof.%20Abdelaziz.pdf",
             caption: "أستاذ دكتور",
         },
+          {
+            name: "أكرم أحمد حسين العقبى",
+            email: "none",
+            img: "",
+            cv: "none",
+            caption: "أستاذ مشارك",
+        },
         {
             name: "تركي عمر حسن عصر",
             email: "tasar@uj.edu.sa",
             img: "https://www.uj.edu.sa/Files/856006/Galleries/7292/56220_Tasar.jpeg",
             cv: "http://csa-kbio.uj.edu.sa/Files/856005/Files/154777_CV%20of%20Dr.%20Turky%20Omar%20Asar.pdf",
+            caption: "أستاذ مساعد",
+        },
+          {
+            name: "حسن شهرايار صلاح الدين",
+            email: "none",
+            img: "",
+            cv: "none",
             caption: "أستاذ مساعد",
         },
        
@@ -31,9 +45,29 @@ var app = new Vue({
             cv: "http://csa-kbio.uj.edu.sa/Files/856005/Files/154777_Dr.%20Hommeida%20CV.pdf",
             caption: "أستاذ مساعد",
         },
+          {
+            name: "عبد الهادي مطلق العتيبي",
+            email: "none",
+            img: "",
+            cv: "none",
+            caption: "محاضر",
+        },
+          {
+            name: "محمد العفيف",
+            email: "none",
+            img: "",
+            cv: "none",
+            caption: "محاضر",
+        },
       ],
       females: [
-        {
+         {
+            name: "سما محمد نور عطية",
+            email: "none",
+            img: "",
+            cv: "none",
+            caption: "أستاذ مساعد",
+        },{
             name: "هدى السيد",
             email: "hemohammed@uj.edu.sa",
             img: "",
