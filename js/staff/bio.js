@@ -32,9 +32,9 @@ var app = new Vue({
         },
           {
             name: "حسن شهرايار صلاح الدين",
-            email: "none",
+            email: "",
             img: "",
-            cv: "none",
+            cv: "Empty",
             caption: "أستاذ مساعد",
         },
        
@@ -47,25 +47,25 @@ var app = new Vue({
         },
           {
             name: "عبد الهادي مطلق العتيبي",
-            email: "none",
+            email: "",
             img: "",
-            cv: "none",
+            cv: "Empty",
             caption: "محاضر",
         },
           {
             name: "محمد العفيف",
-            email: "none",
+            email: "",
             img: "",
-            cv: "none",
+            cv: "Empty",
             caption: "محاضر",
         },
       ],
       females: [
          {
             name: "سما محمد نور عطية",
-            email: "none",
+            email: "",
             img: "",
-            cv: "none",
+            cv: "Empty",
             caption: "أستاذ مساعد",
         },{
             name: "هدى السيد",
