@@ -20,7 +20,7 @@ var app = new Vue({
             name: "أكرم أحمد حسين العقبى",
             email: "none",
             img: "",
-            cv: "none",
+            cv: "Empty",
             caption: "أستاذ مشارك",
         },
         {
