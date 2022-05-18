@@ -18,7 +18,7 @@ var app = new Vue({
         },
           {
             name: "أكرم أحمد حسين العقبى",
-            email: "none",
+            email: "aaaloqbi@uj.edu.sa",
             img: "",
             cv: "Empty",
             caption: "أستاذ مشارك",
@@ -54,7 +54,7 @@ var app = new Vue({
         },
           {
             name: "محمد العفيف",
-            email: "",
+            email: "msalafif@uj.edu.sa",
             img: "",
             cv: "Empty",
             caption: "محاضر",
@@ -63,7 +63,7 @@ var app = new Vue({
       females: [
          {
             name: "سما محمد نور عطية",
-            email: "",
+            email: "smattiyah@uj.edu.sa",
             img: "",
             cv: "Empty",
             caption: "أستاذ مساعد",
