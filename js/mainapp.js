@@ -332,7 +332,7 @@ var app = new Vue({
         {
             icon: "graduation-cap",
             title: "الخريجين",
-            value: "1500+",
+            value: "450+",
         },
         {
             icon: "cog",
