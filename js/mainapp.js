@@ -352,7 +352,7 @@ var app = new Vue({
         {
             icon: "flask",
             title: "المعامل",
-            value: "5",
+            value: "9",
         },
       ],
       graduationGuide: [
