@@ -12,13 +12,6 @@ var app = new Vue({
         },
         {
           title:
-            "تعزية وكيلة الكلية في وفاة والدتها",
-          image:
-            "https://www.uj.edu.sa/Files/856/Galleries/7270/56224_condolences.JPG",
-          url: "#",
-        },
-        {
-          title:
             "تنفيذ مبادرة تطوعية رمضانكم علينا برباط الشاكرين بجدة",
           image:
             "https://www.uj.edu.sa/Files/856/Galleries/7270/56215_ramadan2.jpg",
