@@ -3,6 +3,13 @@ var app = new Vue({
     data: {
       bannerImg: "",
       latestNews: [
+          {
+          title:
+            "كلية العلوم والآداب بالكامل تحقق المركز الأول في أولمبياد جامعة جدة الثقافي1443هـ",
+          image:
+            "https://www.uj.edu.sa/Files/856/Galleries/7270/56234_olmbiad1.jpg",
+          url: "#",
+        },
         {
           title:
             "سعادة عميد كلية العلوم والآداب يقوم بجولة تفقدية للاطمئنان على سير الاختبارات النهائية",
@@ -296,6 +303,11 @@ var app = new Vue({
       ],
       latestAchievements: [
         {
+            image: "https://www.uj.edu.sa/Files/856/Galleries/7270/56234_olmbiad1.jpg",
+            text: "كلية العلوم والآداب بالكامل تحقق المركز الأول في أولمبياد جامعة جدة الثقافي لعام1443هـ",
+            url: "#",
+        },
+          {
             image: "https://www.uj.edu.sa/Files/856/Galleries/7271/56020_4f3b3266922e.jpg",
             text: "الطالب. فراس سعد السلمي من قسم اللغة الانجليزية يحقق المركز الأول في السباق",
             url: "https://csa.uj.edu.sa/Pages-saad-alsulami.aspx",
