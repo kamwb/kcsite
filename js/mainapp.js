@@ -5,6 +5,13 @@ var app = new Vue({
       latestNews: [
         {
           title:
+            "سعادة عميد كلية العلوم والآداب يقوم بجولة تفقدية للاطمئنان على سير الاختبارات النهائية",
+          image:
+            "https://www.uj.edu.sa/Files/856/Galleries/7270/56232_finalexam.JPG",
+          url: "#",
+        },
+          {
+          title:
             "تهنئة بعيد الفطر المبارك",
           image:
             "https://www.uj.edu.sa/Files/856/Galleries/7270/56225_happyeid.JPG",
