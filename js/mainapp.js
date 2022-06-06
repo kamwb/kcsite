@@ -8,7 +8,7 @@ var app = new Vue({
             "كلية العلوم والآداب بالكامل تحقق المركز الأول في أولمبياد جامعة جدة الثقافي1443هـ",
           image:
             "https://www.uj.edu.sa/Files/856/Galleries/7270/56234_olmbiad1.jpg",
-          url: "#",
+          url: "https://csa.uj.edu.sa/Pages-olmbiad1.aspx",
         },
         {
           title:
@@ -305,7 +305,7 @@ var app = new Vue({
         {
             image: "https://www.uj.edu.sa/Files/856/Galleries/7270/56234_olmbiad1.jpg",
             text: "كلية العلوم والآداب بالكامل تحقق المركز الأول في أولمبياد جامعة جدة الثقافي لعام1443هـ",
-            url: "#",
+            url: "https://csa.uj.edu.sa/Pages-olmbiad1.aspx",
         },
           {
             image: "https://www.uj.edu.sa/Files/856/Galleries/7271/56020_4f3b3266922e.jpg",
