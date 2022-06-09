@@ -8,7 +8,7 @@ var app = new Vue({
             "حفل تكريم العميد السابق سعادة الدكتور/محمد سعيد بن علي مدرس",
           image:
             "https://www.uj.edu.sa/Files/856/Galleries/7270/56238_msmudaris.jpg",
-          url: "#",
+          url: "https://csa.uj.edu.sa/Pages-msmudaris.aspx",
         },
           {
           title:
