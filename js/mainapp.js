@@ -5,6 +5,13 @@ var app = new Vue({
       latestNews: [
           {
           title:
+            "حفل تكريم العميد السابق سعادة الدكتور/محمد سعيد بن علي مدرس",
+          image:
+            "https://www.uj.edu.sa/Files/856/Galleries/7270/56238_msmudaris.jpg",
+          url: "#",
+        },
+          {
+          title:
             "كلية العلوم والآداب بالكامل تحقق المركز الأول في أولمبياد جامعة جدة الثقافي1443هـ",
           image:
             "https://www.uj.edu.sa/Files/856/Galleries/7270/56234_olmbiad1.jpg",
