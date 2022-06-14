@@ -34,7 +34,7 @@ var app = new Vue({
         {
           name: "مجدى ضيف الله السلمي",
           email: "mdalsolami@uj.edu.sa",
-          img: "https://www.uj.edu.sa/Files/856006/Galleries/7292/56241_Untitled.png",
+          img: "https://www.uj.edu.sa/Files/856006/Galleries/7292/56241_Untitled1.png",
           cv: "https://csa-kmath.uj.edu.sa/Files/856006/Files/154709_CV-MAJDI%20ALSULAMI.pdf",
           caption: "استاذ مساعد",
         },
