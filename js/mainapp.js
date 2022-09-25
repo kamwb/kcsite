@@ -5,6 +5,34 @@ var app = new Vue({
       latestNews: [
           {
           title:
+            "كلمة عميد كلية العلوم والآداب بمناسبة اليوم الوطني92",
+          image:
+            "https://www.uj.edu.sa/Files/856/Galleries/7306/56281_nationalday.jpg",
+          url: "#",
+        },
+          {
+          title:
+            "كلمة وكيل كلية العلوم والآداب بمناسبة اليوم الوطني92",
+          image:
+            "https://www.uj.edu.sa/Files/856/Galleries/7306/56282_nationalday1.jpg",
+          url: "#",
+        },
+          {
+          title:
+            "كلمة وكيلة كليات فرع الكامل بمناسبة اليوم الوطني92",
+          image:
+            "https://www.uj.edu.sa/Files/856/Galleries/7306/56283_nationalday2.jpg",
+          url: "#",
+        },
+          {
+          title:
+            "كلمة رئيس الأقسام العلمية بكلية العلوم والآداب بمناسبة اليوم الوطني",
+          image:
+            "https://www.uj.edu.sa/Files/856/Galleries/7306/56284_nationalday3.jpg",
+          url: "#",
+        },
+          {
+          title:
             "حفل تكريم العميد السابق سعادة الدكتور/محمد سعيد بن علي مدرس",
           image:
             "https://www.uj.edu.sa/Files/856/Galleries/7270/56238_msmudaris.jpg",
