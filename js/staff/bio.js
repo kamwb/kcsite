@@ -31,21 +31,6 @@ var app = new Vue({
             caption: "أستاذ مساعد",
         },
           {
-            name: "حسن شهرايار صلاح الدين",
-            email: "",
-            img: "",
-            cv: "Empty",
-            caption: "أستاذ مساعد",
-        },
-       
-        {
-            name: "عبدالرحيم حميدة",
-            email: "AAAHMED@uj.edu.sa",
-            img: "",
-            cv: "http://csa-kbio.uj.edu.sa/Files/856005/Files/154777_Dr.%20Hommeida%20CV.pdf",
-            caption: "أستاذ مساعد",
-        },
-          {
             name: "عبد الهادي مطلق العتيبي",
             email: "",
             img: "",
