@@ -24,6 +24,12 @@ var app = new Vue({
           caption: "استاذ مشارك",
         },
         {
+          name: "مجدى ضيف الله السلمي",
+          email: "mdalsolami@uj.edu.sa",
+          img: "https://www.uj.edu.sa/Files/856006/Galleries/7292/56241_Untitled1.png",
+          cv: "https://csa-kmath.uj.edu.sa/Files/856006/Files/154709_CV-MAJDI%20ALSULAMI.pdf",
+          caption: "استاذ مشارك",
+        },{
             name: "محمود محمد امرير	",
             email: "mamrir@uj.edu.sa	",
             img: "https://www.uj.edu.sa/Files/856006/Galleries/7292/56154_mud.jpg",
@@ -31,13 +37,7 @@ var app = new Vue({
             caption: "استاذ مساعد	",
         },
        
-        {
-          name: "مجدى ضيف الله السلمي",
-          email: "mdalsolami@uj.edu.sa",
-          img: "https://www.uj.edu.sa/Files/856006/Galleries/7292/56241_Untitled1.png",
-          cv: "https://csa-kmath.uj.edu.sa/Files/856006/Files/154709_CV-MAJDI%20ALSULAMI.pdf",
-          caption: "استاذ مساعد",
-        },
+        
         {
           name: "الطيب محمدعبد المحمود",
           email: "emabdelmohmoud@uj.edu.sa",
@@ -96,7 +96,13 @@ var app = new Vue({
           cv: "https://csa-kmath.uj.edu.sa/Files/856006/Files/154709_CV%20-Ala%20Elsheikh.pdf",
           caption: "استاذ مساعد",
         },
-        {
+       {
+          name: "عائشة عبدالله البركاتي",
+          email: "aaalbarakati1@uj.edu.sa",
+          img: "",
+          cv: "https://csa-kmath.uj.edu.sa/Files/856006/Files/154709_CV-Aishah%20Albarakati.pdf",
+          caption: "استاذ مساعد",
+        },  {
           name: "صفاء عبد المعطي السلمي",
           email: "saralsulami@uj.edu.sa",
           img: "",
@@ -138,13 +144,7 @@ var app = new Vue({
           cv: "https://csa-kmath.uj.edu.sa/Files/856006/Files/154709_Rasha%20Altowairqi-CV.pdf",
           caption: "محاضر",
         },
-        {
-          name: "عائشة عبدالله البركاتي",
-          email: "aaalbarakati1@uj.edu.sa",
-          img: "",
-          cv: "https://csa-kmath.uj.edu.sa/Files/856006/Files/154709_CV-Aishah%20Albarakati.pdf",
-          caption: "معيد",
-        },
+       
         {
           name: "مرام عمر الحجاجي",
           email: "malhajaji@uj.edu.sa",
