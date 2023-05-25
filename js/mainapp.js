@@ -5,6 +5,13 @@ var app = new Vue({
       latestNews: [
           {
           title:
+            "تهنئة د.مجدي السلمي بمناسبة تكليفه عميداً لكلية العلوم والآداب بالكامل",
+          image:
+            "https://www.uj.edu.sa/Files/856/Galleries/7270/56323_drmajdi.jpg",
+          url: "#",
+        },
+          {
+          title:
             "كلمة عميد كلية العلوم والآداب بمناسبة اليوم الوطني92",
           image:
             "https://www.uj.edu.sa/Files/856/Galleries/7306/56281_nationalday.jpg",
