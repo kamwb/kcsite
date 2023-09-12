@@ -1,8 +1,15 @@
-var app = new Vue({
+*var app = new Vue({
     el: "#app",
     data: {
       bannerImg: "",
       latestNews: [
+          {
+          title:
+            "توقيع مذكرة تفاهم في مجال تبادل الخبرات والخدمة المجتمعية بين جامعة جدة وبلدية محافظة الكامل",
+          image:
+            "https://www.uj.edu.sa/Files/856/Galleries/7270/56365_Memorandum%20of%20Understanding.jpeg",
+          url: "#",
+        },
           {
           title:
             "خالص الشكر والتقدير لسعادة الدكتور فايز الصعيدي لجهودة المميزة أثناء فترة تكليفة عميداً لكلية العلوم والآداب بالكامل",
