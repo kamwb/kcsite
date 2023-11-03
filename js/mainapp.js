@@ -1,8 +1,8 @@
 @@ -1,11 +1,18 @@
 var app = new Vue({
-    el: "#app",
+    el: "#app";
     data: {
-      bannerImg: "",
+      bannerImg: "";
       latestNews: [
           {
           title:
